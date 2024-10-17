@@ -18,7 +18,25 @@ This is originally done by me😄.
 * Adding tables and images to a repository.
 
 # DATA TRANSFORMATION
-[adding an image in github]()
+this
+
+
+
+![]([github.png](https://github.com/MaryQueen-Nelson/EXAMPLE/blob/main/github.png))
+
+![](dog-puppy-on-garden-royalty-free-image-1586966191.avif) 
+
+
+ADVANTAGES                  |      DIASADVANTAGES
+:------------------------:  |    :-------------------------:
+I AM A GIRL                 |     I AM A BOY
+SHE IS A GIRL               |    HE IS A BOY
+ COME                       |             GO
+![](123.png)                |    ![](DOG.png)
+
+
+
+
 
 
 
